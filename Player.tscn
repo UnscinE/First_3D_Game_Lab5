@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://dj4o1kb4mm435"]
+
+[ext_resource type="Script" uid="uid://cgth854jxtrye" path="res://script/player.gd" id="1_kpjcp"]
+[ext_resource type="PackedScene" uid="uid://b7p33wsxxrmsg" path="res://art/Rabbit With pigtails.glb" id="1_xhfnw"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_xhfnw"]
+radius = 1.0
+
+[node name="Player" type="CharacterBody3D"]
+collision_mask = 6
+script = ExtResource("1_kpjcp")
+
+[node name="Privot" type="Node3D" parent="."]
+
+[node name="Root Scene" parent="Privot" instance=ExtResource("1_xhfnw")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0)
+shape = SubResource("SphereShape3D_xhfnw")

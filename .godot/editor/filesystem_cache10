@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757955263
+default_bus_layout.tres::AudioBusLayout/AudioBusLayout::-1::1757948933::0::1::::<><><>0<>0<><>::
+default_env.tres::Environment/Environment::-1::1757948933::0::1::::<><><>0<>0<><>::
+icon.png::CompressedTexture2D/CompressedTexture2D::5003113204152832689::1757948921::1757948941::1::::<><><>0<>0<>8357f243c99b7c638c59b8dab0181c99<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+main.tscn::PackedScene::7260712386899418075::1757955263::0::1::::<><><>0<>0<><>::uid://cyfk5wrhb6fpw::::res://main.gd<>uid://dj4o1kb4mm435::::res://Player.tscn<>uid://ddimxd1notvvg::::res://Mob.tscn<>uid://cwahl3q1qkium::::res://art/Pine Trees.glb
+Mob.tscn::PackedScene::7387113479543994940::1757955263::0::1::::<><><>0<>0<><>::uid://c4iohm6g8kepp::::res://art/Astronaut.glb<>uid://d02y0syryyn06::::res://script/mob.gd
+Player.tscn::PackedScene::7851725595342061258::1757955263::0::1::::<><><>0<>0<><>::uid://cgth854jxtrye::::res://script/player.gd<>uid://b7p33wsxxrmsg::::res://art/Rabbit With pigtails.glb
+main.gd::GDScript::6468357429310077008::1757953857::0::1::::<>Node<><>0<>0<><>::
+::res://art/::1757955335
+Astronaut.glb::PackedScene/PackedScene::6825696071863932669::1757952314::1757952315::1::::<><><>0<>0<>f7c044238a7e05b892ace1762583ca3f<>res://.godot/imported/Astronaut.glb-f12c639606150b9963305d009120bf51.scn::uid://cm7pikora6eqj::::res://art/Astronaut_Astronaut_BaseColor.png
+Astronaut_Astronaut_BaseColor.png::CompressedTexture2D/CompressedTexture2D::5682093168049628753::1757952314::1757952316::1::::<><><>0<>0<>134e4b58d9cc33252bed9c55b8a99542<>res://.godot/imported/Astronaut_Astronaut_BaseColor.png-44ca5bff3fe444fda95b2724deea748a.s3tc.ctex::
+body.material::StandardMaterial3D/StandardMaterial3D::-1::1757948921::0::1::::<><><>0<>0<><>::
+eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757948921::0::1::::<><><>0<>0<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::401007814667459929::1757948921::1757948941::1::::<><><>0<>0<>e4d655346f14a9e47b08e69cde941ff3<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+mob.glb::PackedScene/PackedScene::8013253461570972104::1757948921::1757948942::1::::<><><>0<>0<>097446546a79cdc7931a476ed95611ba<>res://.godot/imported/mob.glb-3afb43c03b9d1598b6af5154e2543eac.scn::
+mob_body.material::StandardMaterial3D/StandardMaterial3D::-1::1757948921::0::1::::<><><>0<>0<><>::
+mob_eye.material::StandardMaterial3D/StandardMaterial3D::-1::1757948921::0::1::::<><><>0<>0<><>::
+Pine Trees.glb::PackedScene::6317442086679013732::1757954953::1757954954::1::::<><><>0<>0<>c9f041f4323a09ac60d645d81ea88379<>res://.godot/imported/Pine Trees.glb-5de9ca512d6db9ae21f27af584e66937.scn::
+player.glb::PackedScene/PackedScene::8595597213452211189::1757948921::1757948942::1::::<><><>0<>0<>ba2f41eeab131c8b898a0aa58c58b37b<>res://.godot/imported/player.glb-08dcfb373480a049995065542e37637b.scn::
+pupil.material::StandardMaterial3D/StandardMaterial3D::-1::1757948921::0::1::::<><><>0<>0<><>::
+Rabbit With pigtails.glb::PackedScene/PackedScene::4665180608844447858::1757950213::1757950213::1::::<><><>0<>0<>e0a890243df462a123fe2424fc8c22c7<>res://.godot/imported/Rabbit With pigtails.glb-91d77dfa4481435540a994ceec621460.scn::uid://c4u3h4ou2x1ol::::res://art/Rabbit With pigtails_Sushi_Atlas.png
+Rabbit With pigtails_Sushi_Atlas.png::CompressedTexture2D/CompressedTexture2D::6851319510075272119::1757950213::1757950214::1::::<><><>0<>0<>c229a4aafa72b83498ea8e6f5a8191a1<>res://.godot/imported/Rabbit With pigtails_Sushi_Atlas.png-c0e6decbc4179bd43495e6d54b35f2a2.s3tc.ctex::
+Rock Path Square Wide_PathRocks_Diffuse.png::CompressedTexture2D::3000995881970089629::1757955335::1757955336::1::::<><><>0<>0<>387b59de8c6afaecaef1732bf1ad779d<>res://.godot/imported/Rock Path Square Wide_PathRocks_Diffuse.png-f04e3da2cf6e547143e7c1a1304a26ba.s3tc.ctex::
+Rock Path Square Wide.glb::PackedScene::8577217337351996495::1757955335::1757955336::1::::<><><>0<>0<>d45cebab16655e285da372f47c8377b3<>res://.godot/imported/Rock Path Square Wide.glb-ab7309a7b52b848144617fb339e41028.scn::uid://bi0x71ciq2jxt::::res://art/Rock Path Square Wide_PathRocks_Diffuse.png
+::res://fonts/::1757948941
+LICENSE.txt::TextFile/TextFile::-1::1757948921::0::1::::<><><>0<>0<><>::
+Montserrat-Medium.ttf::FontFile/FontFile::1181076043744906931::1757948921::1757948941::1::::<><><>0<>0<>15ae6164584162916cd3d615bb284c3a<>res://.godot/imported/Montserrat-Medium.ttf-e832861e4ad4110e172112dc430c04b0.fontdata::
+::res://script/::1757954949
+mob.gd::GDScript::8971224177364786309::1757954889::0::1::::<>CharacterBody3D<><>0<>0<><>::
+Pine Trees.glb::PackedScene::1172879679118196894::1757954949::1757954949::1::::<><><>0<>0<>7965b523ed80b5c4dbab1e7af4d22af8<>res://.godot/imported/Pine Trees.glb-ddd5757f56c25d71c0cec1ba99302deb.scn::
+player.gd::GDScript::5233683177630013152::1757954778::0::1::::<>CharacterBody3D<><>0<>0<><>::
